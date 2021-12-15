@@ -1,0 +1,129 @@
+#principal{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+.sub{
+    background-color: gold;
+    display: flex;
+    margin: 20px;
+    padding: 5px;
+    width: 500px;
+    height: 50px;   
+}
+#principal2{
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+}
+.sub2{
+    background-color:red;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 20px; 
+    flex: 1;
+    flex: ;
+}
+.sub3{
+    background-color:red;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 20px; 
+    flex: 2;
+    flex: ;
+}
+.sub4{
+    background-color:red;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 20px; 
+    flex: 3;
+    flex: ;
+}
+.sub5{
+    background-color:red;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 20px; 
+    flex: 4;
+    flex: ;
+}
+.sub6{
+    background-color:red;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 20px; 
+    flex: 5;
+}
+#principal3{
+    background-color: seagreen;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.sub7{
+    background-color:yellowgreen;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px; 
+ 
+}
+.sub8{
+    background-color:yellowgreen;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px; 
+    
+}
+.sub9{
+    background-color:yellowgreen;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px; 
+    
+}
+.sub10{
+    background-color:yellowgreen;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px; 
+}
+#principal4{
+    background-color:thistle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 500px;
+}
+#principal4 div{
+    background-color:tomato;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px; 
+    
+}
+.sub12{
+    align-self:flex-start;
+}
